@@ -6,6 +6,13 @@
 
 ---
 
+## Screenshots / 截图
+<img width="1920" height="1200" alt="Screenshot_25-7月_21-11-05_29340" src="https://github.com/user-attachments/assets/0f9abc5e-9af8-4c26-bd3c-f20ccea55264" />
+<img width="1920" height="1200" alt="Screenshot_25-7月_21-11-38_11235" src="https://github.com/user-attachments/assets/160e864b-ae4f-498c-8582-ab7ca20f5ee7" />
+<img width="1920" height="1200" alt="Screenshot_25-7月_21-12-21_5154" src="https://github.com/user-attachments/assets/51712d47-f01d-4d57-8386-aa40693d3764" />
+
+---
+
 ## Inspiration / 灵感来源
 
 | What | Why |
