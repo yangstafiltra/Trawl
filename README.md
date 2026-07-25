@@ -121,10 +121,6 @@ cargo build --release
 ---
 
 ## AI-Assisted Programming / AI 辅助编程
-
-This project was entirely written through conversations with AI
-本项目全部通过与 AI
-
 ---
 
 ## License
