@@ -62,7 +62,9 @@ Trawl **不是**通用网页浏览器。它无法渲染 JavaScript、CSS 布局�
 ## Quick Start
 
 ```bash
-cargo run --release
+git clone https://github.com/yangstafiltra/Trawl.git
+cd Trawl
+cargo build --release
 ```
 
 
