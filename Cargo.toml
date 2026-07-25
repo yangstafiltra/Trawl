@@ -1,0 +1,32 @@
+[package]
+name = "trawl"
+version = "0.1.0"
+edition = "2024"
+description = "A modal TUI web browser with image/video support"
+
+[dependencies]
+ratatui = "0.30"
+crossterm = "0.29"
+ureq = { version = "3", features = ["gzip"] }
+scraper = "0.22"
+url = "2"
+image = "0.25"
+base64 = "0.22"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+directories = "6"
+ratatui-image = { version = "11", default-features = false, features = ["image-defaults", "crossterm"] }
+
+[lints.clippy]
+all = { level = "deny", priority = 10 }
+pedantic = { level = "warn", priority = 3 }
+
+[lints.rust]
+future-incompatible = "warn"
+nonstandard_style = { level = "deny", priority = -1 }
+
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true
+opt-level = "z"
